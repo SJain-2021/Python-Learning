@@ -1,2 +1,2 @@
 Created to test the file sample2 file for the first time.
-First commit done
+First commit done.
